@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a list of references for writers and guidelines
   for preparing well-written papers for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -21,7 +23,7 @@ Grossman, John. Preface in _The Chicago Manual of Style : The Essential Guide fo
 
 Miller, Shirley M. _Webster's New World Word Book_. Signet, 1967.
 
-Merriam-Webster. _Merriam-Webster's Collegiate Dictionary_. 11th ed. Merriam-Webster, Inc., 2008. ISBN: 9780877798095. (Also see their on-line dictionary at {{% resource_link "95912b03-91dc-4eaf-81c5-61d94ecc2e1b" "https://www.merriam-webster.com/" %}})
+Merriam-Webster. _Merriam-Webster's Collegiate Dictionary_. 11th ed. Merriam-Webster, Inc., 2008. ISBN: 9780877798095. (Also see their on-line dictionary at [https://www.merriam-webster.com/](https://www.merriam-webster.com/))
 
 Strunk, William, Jr., E. B. White, et al. _The Elements of Style_. 3rd ed. Allyn & Bacon, 1995. ISBN: 9780205191581.
 

@@ -5,6 +5,8 @@ description: This resource contains information regarding Guidelines for Well-wr
 file: /courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/5e58e5b15de943a6dd353dcb54a4cccd_MIT11_165F11_Suggestions.pdf
 file_size: 89608
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: This resource contains information regarding assignments.
 file: /courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/7e622729a5b7d412193bce2c93d98660_MIT11_165F11_Response.pdf
 file_size: 115694
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
